@@ -58,7 +58,7 @@ This course provides a comprehensive foundation in **data analytics** using **Py
 
 I successfully completed the **NPTEL Data Analytics with Python** course with a final score of **80%**.
 
-📄 **View Certificate**: [https://drive.google.com/file/d/1q0ItiTiiJQ_hfBo8vSAnhj28OFJx_7NG/view?usp=sharing]
+📄 **View Certificate**: [Click Here](https://drive.google.com/file/d/1q0ItiTiiJQ_hfBo8vSAnhj28OFJx_7NG/view?usp=sharing)
 
 ---
 
@@ -74,7 +74,7 @@ All course content is © NPTEL and IIT Roorkee. Shared here only for educational
 If you’d like to connect or collaborate, feel free to reach out:
 
 - 🔗 [GitHub](https://github.com/imdhilipkumar) 
-- 📄 [LinkedIn](https://www.linkedin.com/in/dhilip-kumar/) *(optional)*
+- 📄 [LinkedIn](https://www.linkedin.com/in/dhilip-kumar/) 
 
 ---
 
