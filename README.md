@@ -58,7 +58,7 @@ This course provides a comprehensive foundation in **data analytics** using **Py
 
 I successfully completed the **NPTEL Data Analytics with Python** course with a final score of **80%**.
 
-📄 **View Certificate**: [Click Here to View](#) *(https://drive.google.com/file/d/1q0ItiTiiJQ_hfBo8vSAnhj28OFJx_7NG/view?usp=sharing)*
+📄 **View Certificate**: [https://drive.google.com/file/d/1q0ItiTiiJQ_hfBo8vSAnhj28OFJx_7NG/view?usp=sharing]
 
 ---
 
